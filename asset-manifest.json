@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SakiBusinessWebsite/static/css/main.26c5dacd.css",
+    "main.js": "/SakiBusinessWebsite/static/js/main.973349db.js",
+    "static/js/453.8ab44547.chunk.js": "/SakiBusinessWebsite/static/js/453.8ab44547.chunk.js",
+    "static/media/sample_logo.png": "/SakiBusinessWebsite/static/media/sample_logo.c4b8d047ced55168925d.png",
+    "static/media/cart_logo.png": "/SakiBusinessWebsite/static/media/cart_logo.6787623c3e8ea06d1a67.png",
+    "index.html": "/SakiBusinessWebsite/index.html",
+    "main.26c5dacd.css.map": "/SakiBusinessWebsite/static/css/main.26c5dacd.css.map",
+    "main.973349db.js.map": "/SakiBusinessWebsite/static/js/main.973349db.js.map",
+    "453.8ab44547.chunk.js.map": "/SakiBusinessWebsite/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c5dacd.css",
+    "static/js/main.973349db.js"
+  ]
+}
