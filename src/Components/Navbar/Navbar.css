@@ -88,14 +88,16 @@ img{
     position: relative;
     transform: translateY(-100%);
     z-index: -1;
+    display: none;
 }
 
 @media screen and (max-width: 720px) {
-    .mobile-version-nav-bar-menu-container, .menu-logo{
+    /* .mobile-version-nav-bar-menu-container, .menu-logo{
         display: flex;
-    }
+    } */
     .menu-logo{
         position: relative;
+        display: flex;
     }
     img{
         height: 35px;
@@ -115,10 +117,10 @@ img{
         font-weight: 600;
     }
 
-    .mobile-version-nav-bar-menu-container{
+    /* .mobile-version-nav-bar-menu-container{
         display: flex;
         flex-direction: column;
-    }
+    } */
     .mobile-nav-menu{
         margin-top: 5px;
         padding: 0;
@@ -185,6 +187,8 @@ img{
     }
 
     .mobile-version-nav-bar-menu-container.active{
+        display: flex;
+        flex-direction: column;
         animation: menu-transition 1s linear forwards;
     }
 
