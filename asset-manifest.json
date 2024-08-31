@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/SakiBusinessWebsite/static/css/main.26c5dacd.css",
-    "main.js": "/SakiBusinessWebsite/static/js/main.973349db.js",
+    "main.css": "/SakiBusinessWebsite/static/css/main.52f4fbda.css",
+    "main.js": "/SakiBusinessWebsite/static/js/main.7ad5ef27.js",
     "static/js/453.8ab44547.chunk.js": "/SakiBusinessWebsite/static/js/453.8ab44547.chunk.js",
+    "static/media/homeheadertaglinecontainer_background.jpg": "/SakiBusinessWebsite/static/media/homeheadertaglinecontainer_background.1a471b9f8fe1d11d4d03.jpg",
     "static/media/sample_logo.png": "/SakiBusinessWebsite/static/media/sample_logo.c4b8d047ced55168925d.png",
     "static/media/cart_logo.png": "/SakiBusinessWebsite/static/media/cart_logo.6787623c3e8ea06d1a67.png",
     "index.html": "/SakiBusinessWebsite/index.html",
-    "main.26c5dacd.css.map": "/SakiBusinessWebsite/static/css/main.26c5dacd.css.map",
-    "main.973349db.js.map": "/SakiBusinessWebsite/static/js/main.973349db.js.map",
+    "main.52f4fbda.css.map": "/SakiBusinessWebsite/static/css/main.52f4fbda.css.map",
+    "main.7ad5ef27.js.map": "/SakiBusinessWebsite/static/js/main.7ad5ef27.js.map",
     "453.8ab44547.chunk.js.map": "/SakiBusinessWebsite/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26c5dacd.css",
-    "static/js/main.973349db.js"
+    "static/css/main.52f4fbda.css",
+    "static/js/main.7ad5ef27.js"
   ]
 }
